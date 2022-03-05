@@ -1,7 +1,7 @@
 # Swift-Language-Guide
 Swift Language Guide in Japanese
 
-```swift
+```Swift
 print("Hello, world!")
 // Prints "Hello, world!"
 ```
